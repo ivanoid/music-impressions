@@ -26,6 +26,8 @@ These routes support different conclusions. Playing audio for the user does not 
 
 When testing an audio model, begin with a short known excerpt and observable questions: instruments, order of entries, presence of voice, or a recognisable contrast. Check its answers against the recording/score before using it for detailed interpretation. Report a failed test as a failure of that tested setup, not proof that every version of a model is useless. Recheck current availability and access requirements; do not bake a particular hosted demo or paid API into the workflow.
 
+Keep an unprompted description separate from a follow-up that supplies an expected instrument or relationship. Agreement with “do long notes continue beneath the repeated figure?” is not independent discovery of that overlap. When comparing approaches, state which had the score, recording identity, prior dialogue, or other clues. Technical completion and structured output do not establish musical accuracy; retain a model only where it adds useful, checkable evidence to the listening question.
+
 ## Keep the clock trustworthy
 
 Record the time basis: movement-local player time, album time, whole-file time, or concert-video time. Identify leading silence, introductions, cuts, and any extraction offset. Different performances and editions cannot share timestamps automatically.

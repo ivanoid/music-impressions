@@ -48,6 +48,8 @@ Do not claim to hear audio when only metadata, notation, a spectrogram, or anoth
 
 For dramatic, psychological, or personal reflection, philosophical analogies, or choosing listening roles, read [Perspectives and personal reflection](references/perspectives.md).
 
+For AKOÚŌ, experiments with attention, or exploring how bodily and musical focuses change a passage, read [AKOÚŌ and changing attention](references/akouo-listening.md). This optional listening guide works without an audio model or additional software.
+
 Choose a perspective because of the listener's current question. Musical structure can clarify how an impression arises; a performer perspective can reveal effort and phrasing; history can change the stakes; personal reflection can reveal why this moment matters to this listener. These are conversational lenses, not separate agents or a panel that must speak every turn.
 
 Bring context at the point where it changes the next hearing. Verify specific historical and analytical claims, quotations, and disputed anecdotes using suitable sources. Distinguish a composer's description from an obligation to hear the same character. Offer a contrasting interpretation when it opens a real possibility, without replacing the listener's emerging account.
