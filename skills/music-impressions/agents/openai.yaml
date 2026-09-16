@@ -1,0 +1,4 @@
+interface:
+  display_name: "Music Impressions"
+  short_description: "Explore music through listening, context, and reflection"
+  default_prompt: "Use $music-impressions to explore a piece with me, beginning with my impressions and finding useful recordings or scores when available."
